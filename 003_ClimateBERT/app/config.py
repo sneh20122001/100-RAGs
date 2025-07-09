@@ -1,2 +1,2 @@
 # app/config.py
-GOOGLE_API_KEY = "AIzaSyBnyboXe3bFtkQ-KJqwHiAGEsCKTZCOr3U"
+GOOGLE_API_KEY = "XXXXX"
